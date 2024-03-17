@@ -1,6 +1,7 @@
-#include <stdio.h>
-int main(){
-printf("Hello World!");
 
-return 0;
+#include <stdio.h> //it is important for every c program to start with
+int main(){
+printf("Hello World!"); //it will  print Hello  World!
+printf("Priyanshu Mishra");
+return 0; //it means that every thing in the  code is correct it was mandatory in earlier compilers but in new compilers you can skip this
 }
